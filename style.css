@@ -6,21 +6,21 @@ body {
 }
 
 #music {
-	background-color: #63C5DA;
+	background-color: #FFC0CB;
 }
 #volunteering {
-	background-color: ##FFC0CB;
+	background-color: #FFC0CB;
 }
 #contact {
 	background-color: #FFC0CB;
 }
 
-.city-picture {
+.me-picture {
   width: 500px;
 }
 
 header {
-  background-color: #FFC0CB;
+  background-color: #E6E6FA;
 }
 header h2 {
   color: #111;
@@ -76,7 +76,7 @@ footer p {
   display: grid;
   grid-template-columns: 50% 50%;
   padding: 40px;
-  background-color: #ffcaaf;
+  background-color: #E6E6FA;
 }
 #news .two-column {
 	background-color: red;
@@ -85,14 +85,14 @@ footer p {
 .two-column div {
   margin-right: 10px;
   margin-left: 10px;
-  background-color: #ffcaaf;
+  background-color: #E6E6FA;
 }
 
 .three-column {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   padding: 40px;
-  background-color: #D8F793;
+  background-color: #E6E6FA;
 }
 
 .three-column div {
